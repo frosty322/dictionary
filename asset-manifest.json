@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dictionary/static/css/main.74c478f6.css",
+    "main.js": "/dictionary/static/js/main.71b1b026.js",
+    "static/media/i_icon.jpg": "/dictionary/static/media/i_icon.bfd593078c3bf9b42f82.jpg",
+    "index.html": "/dictionary/index.html",
+    "main.74c478f6.css.map": "/dictionary/static/css/main.74c478f6.css.map",
+    "main.71b1b026.js.map": "/dictionary/static/js/main.71b1b026.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74c478f6.css",
+    "static/js/main.71b1b026.js"
+  ]
+}
